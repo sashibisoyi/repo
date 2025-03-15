@@ -2,7 +2,12 @@ this is file1
 updated content
 updated content again
 <<<<<<< HEAD
+<<<<<<< HEAD
 okkkkkkkkkkkkkkkkkkkkk
+=======
+i am updating in stage branch
+
+>>>>>>> stage
 
 =======
 i am updating file1 for 1234
@@ -11,3 +16,4 @@ okkkk
 again okk
 again kkkkkkkkkkkkkkkkk
 >>>>>>> dev
+
